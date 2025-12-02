@@ -37,23 +37,6 @@ Here are the technologies I'm currently using or learning:
   </a>
 </p>
 
----
-
-### 📊 My GitHub Stats
-
-<!-- NOTE: Replace "YourUsername" with your actual GitHub username in the links below! -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh4red-Ptr&show_icons=true&theme=radical" alt="Sh4red-Ptr" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh4red-Ptr&layout=compact&theme=radical" alt="Sh4red-Ptr" />
-</p>
-
----
-
-
 ### 📫 Connect with me
 - 📧 Email: [Nul1_ptr@outlook.com]
 
