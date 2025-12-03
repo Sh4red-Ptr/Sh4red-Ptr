@@ -38,7 +38,7 @@ Here are the technologies I'm currently using or learning:
 </p>
 
 ### 📫 Connect with me
-- 📧 Email: [Nul1_ptr@outlook.com]
+- 📧 Email: [Sh4red-Ptr@outlook.com]
 
 <!--
 **Fun footer/credits**
